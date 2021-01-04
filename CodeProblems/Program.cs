@@ -10,20 +10,23 @@ namespace CodeProblems
         static void Main(string[] args)
         {
 
-            //BasicCalculator();
+            BasicCalculator();
             TextJustification();
 
-            //Console.WriteLine("Select problem number:");
-            //foreach(string q in Problems()) { Console.WriteLine($"  {q}\n"); }
+            Console.WriteLine("Select problem number:");
+            foreach(string q in Problems()) { Console.WriteLine($"  {q}\n"); }
 
 
-            //switch (Console.ReadLine())
-            //{
-            //    case "1":
-            //        BasicCalculator();
-            //        break;
+            switch (Console.ReadLine())
+            {
+                case "1":
+                    BasicCalculator();
+                    break;
+                case "2":
+                    TextJustification()
+                    break;
 
-            //}
+            }
 
         }
         public static List<string> Problems()

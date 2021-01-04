@@ -1,0 +1,13 @@
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\bin\Debug\netcoreapp3.1\CodeProblems.exe
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\bin\Debug\netcoreapp3.1\CodeProblems.deps.json
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\bin\Debug\netcoreapp3.1\CodeProblems.runtimeconfig.json
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\bin\Debug\netcoreapp3.1\CodeProblems.runtimeconfig.dev.json
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\bin\Debug\netcoreapp3.1\CodeProblems.dll
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\bin\Debug\netcoreapp3.1\CodeProblems.pdb
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\obj\Debug\netcoreapp3.1\CodeProblems.csprojAssemblyReference.cache
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\obj\Debug\netcoreapp3.1\CodeProblems.AssemblyInfoInputs.cache
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\obj\Debug\netcoreapp3.1\CodeProblems.AssemblyInfo.cs
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\obj\Debug\netcoreapp3.1\CodeProblems.csproj.CoreCompileInputs.cache
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\obj\Debug\netcoreapp3.1\CodeProblems.dll
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\obj\Debug\netcoreapp3.1\CodeProblems.pdb
+C:\Users\jmgre\source\repos\CodeProblems\CodeProblems\obj\Debug\netcoreapp3.1\CodeProblems.genruntimeconfig.cache
